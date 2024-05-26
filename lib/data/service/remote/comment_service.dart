@@ -17,6 +17,7 @@ class CommentService {
       }
       throw Exception();
     }catch(e){
+      
       throw Exception();
     }
         
